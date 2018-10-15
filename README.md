@@ -1,9 +1,9 @@
 # 2018-talks
 Slides and links for 2018 talks
 
-## Speakers
+<!--- ## Speakers
 Please submit a PR with your slides in a subdirectory named like this:
-`BrianKetelsen-MakingGoodBBQ`
+`BrianKetelsen-MakingGoodBBQ` --->
 
 ## Quick Links
 
